@@ -105,3 +105,11 @@ Part of the **SuperInstance** ternary computing suite:
 ## License
 
 MIT
+
+## See Also
+- **ternary-graph** — related
+- **ternary-network** — related
+- **ternary-topology** — related
+- **ternary-diff** — related
+- **ternary-codes** — related
+
